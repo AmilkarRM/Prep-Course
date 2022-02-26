@@ -133,7 +133,12 @@ function sonIguales(x, y) {
 /*
 --- notas_son_Iguales
 
-operadores_Comparacion
+Funcion son_Iguales recibe 2 parametros o argumentos llamados: "x", "y"
+
+Los parametros enviados hacen referencia a: 
+funcion(objeto(elemento_1, elemento_2) 
+
+--- operadores_Comparacion
 
 3 (===) iguales compara el dato y el valor.
 2 (==) igualaes compara el dato.
@@ -514,7 +519,7 @@ function esPositivo(numero) {
   } else if (numero < 0) { // si, el valor de la variable: "numero" es mayor a: 0
     return "Es negativo" // Devolver negativo
   } else { // si el valor de la variable: "numero", no es menor a: 0 y no es mayor a: 0
-    return false // // Devolver false
+    return false // Devolver false
   }
 }
 

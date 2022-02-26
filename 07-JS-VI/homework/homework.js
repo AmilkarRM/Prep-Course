@@ -28,7 +28,7 @@ El método slice() devuelve una copia de una parte del array dentro de un nuevo 
 empezando por inicio hasta fin (fin no incluido). El array original no se modificará.
 
 Los parametros enviados hacen referencia a: 
-(desdeq_Posicion_Empiezo_Cortar, hasta_Posicion_Debo_Cortar)
+(desde_Q_Posicion_Empiezo_Cortar, hasta_Posicion_Debo_Cortar)
 
 https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
 

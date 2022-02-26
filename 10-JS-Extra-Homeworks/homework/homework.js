@@ -184,7 +184,7 @@ objeto[propiedad]
 
 https://www.acontracorrientech.com/objetos-en-javascript-guia-basica/
 https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Property_Accessors
-
+--
 
 
 --- Método Object.keys() 
@@ -601,7 +601,6 @@ function buscoInterseccion(arreglo1, arreglo2) {
   -la funcion map, refiere a levantar el plano de, trazar mapa en ingles.
   -La funcion return hace referencia a: devolver o regresar en ingles.
   -El metodo push, hace referencia a: empujar, presionar, añadir o enviar en ingles. 
-  -La funcion return hace referencia a: devolver o regresar en ingles.
   -Array, hace referencia a: coleccion, conjunto o formacion en ingles.
   -Key, hace referencia a: clave en ingles.
   -El metodo length, hace referencia a longitud o largo en ingles.
