@@ -107,7 +107,6 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/for...
 -Recorrer o iterar, hace referencia a realizar cierta acción varias veces.
 -Declarar hace referencia a escribir la funcion.
 -Invocar hace referecia de hacer funcionar la funcion.
-
 --
 */
 
@@ -269,7 +268,7 @@ cadenaMayus = cadenaMayus + s[i]; es igual cadenaMayus += s[i];
 -Operador de acceso Dot Notation, hace referencia a: Notación de puntos en ingles.
 -Operador de acceso Bracket Notation, hace referencia a: Notación de corchetes en ingles.
 -La funcion to upper_Case, refiere a mayusculas en ingles.
-
+--
 */
 
 
@@ -571,7 +570,7 @@ function buscoInterseccion(arreglo1, arreglo2) {
 }
 
 /*
-  --- notas_busco_Interseccion --- 
+  --- notas_busco_Interseccion
    
   Funcion notas_busco_Interseccion recibe 2 parametros o argumentos llamado: "arreglo1" , "arreglo2" 
   funcion(objeto(elemento, elemento) 

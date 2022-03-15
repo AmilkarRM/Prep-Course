@@ -98,7 +98,7 @@ Otra opcion:
 
 function crearUsuario() {
   function Usuario(opciones) { // Crear una funcion constructora llamada: Usuario. 
-    // Definir `contructor`, con las propiedades: usuario, nombre, email, contraseña y recibir argumento llamado: "opciones"
+    // Definir `constructor`, con las propiedades: usuario, nombre, email, contraseña y recibir argumento llamado: "opciones"
     this.nombre = opciones.nombre; // This .nombre es igual opciones recibida por argumento.
     this.usuario = opciones.usuario;  // This .usuario es igual opciones.usuario recibida por argumento.
     this.email = opciones.email; // This .email es igual opciones.email recibida por argumento.
