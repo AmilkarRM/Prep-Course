@@ -2038,6 +2038,13 @@ var newArray = [21]
 -Invocar hace referecia de hacer funcionar la funcion.
 -Operador de acceso Dot Notation, hace referencia a: Notación de puntos en ingles.
 -Operador de acceso Bracket Notation, hace referencia a: Notación de corchetes en ingles.
+
+.forEach() se usa para ejecutar el mismo código en cada elemento de una matriz, pero no cambia la matriz y devuelve indefinido.
+.map() ejecuta el mismo código en cada elemento de una matriz y devuelve una nueva matriz con los elementos actualizados.
+.filter() verifica cada elemento en una matriz para ver si cumple con ciertos criterios y devuelve una nueva matriz con los elementos que devuelven la verdad para los criterios.
+.findIndex() devuelve el índice del primer elemento de una matriz que cumple una condición en la función de devolución de llamada. Devuelve -1 si ninguno de los elementos del arreglo cumple la condición.
+.reduce() itera a través de una matriz y toma los valores de los elementos y devuelve un solo valor.
+Todos los métodos de iterador toman una función de devolución de llamada, que puede ser una función predefinida, una expresión de función o una función de flecha.
 --   
 */
 
